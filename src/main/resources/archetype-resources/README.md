@@ -11,9 +11,9 @@ Usage
 Update your Maven pom.xml to include the dependency
 
     <dependency>
-        <groupId>{groupId}</groupId>
+        <groupId>${groupId}</groupId>
         <artifactId>${artifactId}</artifactId>
-        <version>{$version}</version>
+        <version>${version}</version>
     </dependency>
 
 Contact
