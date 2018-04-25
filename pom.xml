@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.devdungeon.maven.archetypes</groupId>
     <artifactId>library</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <name>com.devdungeon.maven.archetypes:library</name>
     <url>https://github.com/DevDungeon/maven.archetypes.library</url>
   
