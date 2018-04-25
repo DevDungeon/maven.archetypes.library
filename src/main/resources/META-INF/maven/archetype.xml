@@ -1,9 +1,14 @@
 <archetype>
-  <id>maven.archetype.library</id>
-  <sources>
-    <source>src/main/java/App.java</source>
-  </sources>
-  <testSources>
-    <source>src/test/java/AppTest.java</source>
-  </testSources>
+    <id>maven.archetype.library</id>
+    <resources>
+        <resource>README.md</resource>
+        <resource>.gitignore</resource>
+    </resources>
+    <sources>
+        <source>src/main/java/Helper.java</source>
+    </sources>
+    <testSources>
+        <!--<source>src/test/java/SomeClassTest.java</source>-->
+    </testSources>
 </archetype>
+
